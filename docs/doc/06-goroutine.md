@@ -29,11 +29,17 @@
 ### 6.7.2 runtime.newproc
 ## 6.8 调度循环
 ## 6.9 抢占式调度
+
 ![](https://img.github.mailjob.net/book-go-runtime/6.9.mp4)
+
 ### 6.9.1 Go1.13 的抢占式调度
+
 ![](https://img.github.mailjob.net/book-go-runtime/6.9.1.mp4)
+
 ### 6.9.2 Go1.14 的抢占式调度
+
 ![](https://img.github.mailjob.net/book-go-runtime/6.9.2.mp4)
+
 ## 6.10 timer
 ### 6.10.1 一个示例
 ### 6.10.2 数据结构
