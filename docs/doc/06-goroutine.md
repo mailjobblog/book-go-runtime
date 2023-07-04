@@ -1,11 +1,17 @@
 # 第6章 goroutine
 ## 6.1 进程、线程与协程
 ### 6.1.1 进程
+
 ![](https://img.github.mailjob.net/book-go-runtime/6.1.1.mp4)
+
 ### 6.1.2 线程
+
 ![](https://img.github.mailjob.net/book-go-runtime/6.1.2.mp4)
+
 ### 6.1.3 协程
+
 ![](https://img.github.mailjob.net/book-go-runtime/6.1.3.mp4)
+
 ## 6.2 IO 多路复用
 ### 6.2.1 三种网络 IO 模型
 ### 6.2.2 示例对比
@@ -14,17 +20,23 @@
 ### 6.4.1 基本概念
 ### 6.4.2 从 GM 到 GMP
 ## 6.5 GMP 主要数据结构
+
 ![](https://img.github.mailjob.net/book-go-runtime/6.5.mp4)
+
 ### 6.5.1 runtime.g
 ### 6.5.2 runtime.m
 ### 6.5.3 runtime.p
 ### 6.5.4 schedt
 ## 6.6 调度器初始化
+
 ![](https://img.github.mailjob.net/book-go-runtime/6.6.mp4)
+
 ### 6.6.1 调度器初始化过程
 ### 6.6.2 runtime.schedinit
 ## 6.7 G 的创建与退出
+
 ![](https://img.github.mailjob.net/book-go-runtime/6.7.mp4)
+
 ### 6.7.1 相关汇编函数
 ### 6.7.2 runtime.newproc
 ## 6.8 调度循环
